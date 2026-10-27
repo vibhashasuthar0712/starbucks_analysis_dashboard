@@ -31,7 +31,9 @@ This project presents an interactive Starbucks Analytics Dashboard built using *
 
 Add your dashboard screenshot here:
 
-![Starbucks Analytics Dashboard](dashboard_screenshot.png)
+![Starbucks Analytics Dashboard]
+<img width="955" height="493" alt="Screenshot (526)" src="https://github.com/user-attachments/assets/3502b331-7204-46e9-8c95-c85605ad31b6" />
+
 
 ## 📁 Project Files
 
